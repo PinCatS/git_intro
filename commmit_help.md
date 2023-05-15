@@ -3,3 +3,8 @@
 * Используйте `git add filename` для добавления конкретного файла или `git add .` для добавления всех файлов
 * Чтобы одной командой добавить все изменённые файлы и сделать коммит, выполните `git commit -am "commit message"`
 * Новые файлы добавлены не будут
+* Testing rebase fixup
+* Ooops, amend
+* Adding more
+* Review fixes
+* More review fixes
